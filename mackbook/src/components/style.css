@@ -1,0 +1,19 @@
+li {
+    color: white
+    
+}
+.divs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  top: -510px;
+  left: 800px;
+  width: 500px;
+  flex-wrap: nowrap;
+}
+button {
+    height: 60px;
+}
+
+
