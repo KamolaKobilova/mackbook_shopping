@@ -7,7 +7,7 @@ li {
   flex-direction: column;
   justify-content: center;
   position: relative;
-  top: -510px;
+  top: -210px;
   left: 800px;
   width: 500px;
   flex-wrap: nowrap;
@@ -15,5 +15,10 @@ li {
 button {
     height: 60px;
 }
-
+li {
+  list-style: none;
+  margin-right: 20px;
+  margin-left: 20px;
+  text-decoration: none;
+}
 
